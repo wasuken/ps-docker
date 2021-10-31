@@ -1,0 +1,3 @@
+[submodule "ps"]
+	path = ps
+	url = git@github.com:wasuken/ps.git
